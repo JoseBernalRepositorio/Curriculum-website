@@ -1,0 +1,59 @@
+body{
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: #0C5185;
+    margin-top: 0;
+    padding: 10px;
+    width: 100%;
+}
+nav li{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    justify-content: center;
+}
+nav li:hover{
+    background-color: #3289C8 ;
+}
+.menu{
+    color: #fff;
+    text-decoration: none;
+}
+.bi-person-circle{
+    color: white;
+    text-decoration: none;
+    float: right;
+    left: 100%;
+}
+.bi-person-circle:hover{
+    color: #fff;
+}
+
+h1{
+    color: #0C5185;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.formulariocontacto{
+    background-color: #fff;
+    width: 55em;
+    height: 30em;
+    border-radius: 4px;
+    border-color: rgba(4, 56, 96,.4);
+}
+table{
+    border: 1px solid rgba(200,200,255,.2);
+    margin: 10px solid;
+}
+i{
+    color: #0C5185;
+}
+i:hover{
+    color: #3289C8;
+}
